@@ -12,7 +12,7 @@ from laso_utilities.utilities import (
 filename = 'C:\\sts\\raw_gs_data\\json_data.json'
 # real generated file
 #filename = 'C:\\sts\\raw_gs_data\\postData.json'
-producer = KafkaProducer(bootstrap_servers=['10.1.1.191:9094'], value_serializer=laso_serializer)
+producer = KafkaProducer(bootstrap_servers=['10.1.1.191:9094'], value_serializer=laso_serializer) #TODO - windows env variable for IP address
 
 def main():
     application_path = os.path.join("C:", "\Program Files (x86)", "Turf Trax", "Going Stick")

@@ -12,7 +12,7 @@ from laso_utilities.utilities import (
     , generate_gps_message
 )
 
-producer = KafkaProducer(bootstrap_servers=['10.1.1.191:9094'], value_serializer=laso_serializer)
+producer = KafkaProducer(bootstrap_servers=['10.1.1.191:9094'], value_serializer=laso_serializer) #TODO - windows env variable for IP address
 ser = serial.Serial('COM4', 9600, timeout=1.0)
 
 while True:
