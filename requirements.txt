@@ -1,0 +1,8 @@
+pyWin32
+comtypes
+six
+pywinauto
+pandas
+kafka-python
+pyubx2
+pyserial

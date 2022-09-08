@@ -1,0 +1,99 @@
+How found:	Selected from tree...
+Name:	"TurfTrax 1.11.5"
+ControlType:	UIA_WindowControlTypeId (0xC370)
+LocalizedControlType:	"window"
+BoundingRectangle:	{l:52 t:52 r:1492 b:1008}
+IsEnabled:	true
+IsOffscreen:	false
+IsKeyboardFocusable:	true
+HasKeyboardFocus:	false
+AccessKey:	""
+ProcessId:	10332
+RuntimeId:	[2A.20408]
+AutomationId:	"Form1"
+FrameworkId:	"WinForm"
+ClassName:	"WindowsForms10.Window.8.app.0.141b42a_r6_ad1"
+NativeWindowHandle:	0x20408
+ProviderDescription:	"[pid:9040,providerId:0x20408 Main:Nested [pid:10332,providerId:0x20408 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]; Nonclient:Microsoft: Non-Client Proxy (unmanaged:uiautomationcore.dll); Hwnd(parent link):Microsoft: HWND Proxy (unmanaged:uiautomationcore.dll)]"
+IsPassword:	false
+HelpText:	""
+IsDialog:	false
+LegacyIAccessible.ChildId:	0
+LegacyIAccessible.DefaultAction:	""
+LegacyIAccessible.Description:	""
+LegacyIAccessible.Help:	""
+LegacyIAccessible.KeyboardShortcut:	""
+LegacyIAccessible.Name:	"TurfTrax 1.11.5"
+LegacyIAccessible.Role:	client (0xA)
+LegacyIAccessible.State:	focusable (0x100000)
+LegacyIAccessible.Value:	""
+Transform.CanMove:	true
+Transform.CanResize:	true
+Transform.CanRotate:	false
+Window.CanMaximize:	false
+Window.CanMinimize:	false
+Window.IsModal:	false
+Window.IsTopmost:	false
+Window.WindowInteractionState:	ReadyForUserInteraction (2)
+Window.WindowVisualState:	Normal (0)
+IsAnnotationPatternAvailable:	false
+IsDragPatternAvailable:	false
+IsDockPatternAvailable:	false
+IsDropTargetPatternAvailable:	false
+IsExpandCollapsePatternAvailable:	false
+IsGridItemPatternAvailable:	false
+IsGridPatternAvailable:	false
+IsInvokePatternAvailable:	false
+IsItemContainerPatternAvailable:	false
+IsLegacyIAccessiblePatternAvailable:	true
+IsMultipleViewPatternAvailable:	false
+IsObjectModelPatternAvailable:	false
+IsRangeValuePatternAvailable:	false
+IsScrollItemPatternAvailable:	false
+IsScrollPatternAvailable:	false
+IsSelectionItemPatternAvailable:	false
+IsSelectionPatternAvailable:	false
+IsSpreadsheetItemPatternAvailable:	false
+IsSpreadsheetPatternAvailable:	false
+IsStylesPatternAvailable:	false
+IsSynchronizedInputPatternAvailable:	false
+IsTableItemPatternAvailable:	false
+IsTablePatternAvailable:	false
+IsTextChildPatternAvailable:	false
+IsTextEditPatternAvailable:	false
+IsTextPatternAvailable:	false
+IsTextPattern2Available:	false
+IsTogglePatternAvailable:	false
+IsTransformPatternAvailable:	true
+IsTransform2PatternAvailable:	false
+IsValuePatternAvailable:	false
+IsVirtualizedItemPatternAvailable:	false
+IsWindowPatternAvailable:	true
+IsCustomNavigationPatternAvailable:	false
+IsSelectionPattern2Available:	false
+FirstChild:	"" pane
+LastChild:	(null) title bar
+Next:	"Program Manager" pane
+Previous:	"Taskbar" pane
+Other Props:	Object has no additional properties
+Children:	"" pane
+	"Logging" check box
+	"Autodetect" button
+	"" pane
+	"" pane
+	"Reload" button
+	"Port" combo box
+	"Port" text
+	"" list
+	"Edit" button
+	"Edit" button
+	"" combo box
+	"" edit
+	"Stick User" edit
+	"Start Download" button
+	"Stick User" text
+	"Course" text
+	"API Key" text
+	(null) title bar
+Ancestors:	"Desktop 1" pane
+	[ No Parent ]

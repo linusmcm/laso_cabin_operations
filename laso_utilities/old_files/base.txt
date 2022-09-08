@@ -1,0 +1,34 @@
+AutomationElement
+  General Accessibility
+    AccessKey:	""
+    AcceleratorKey:	""
+    IsKeyboardFocusable:	"False"
+    LabeledBy:	"(null)"
+    HelpText:	""
+
+  State
+    IsEnabled:	"True"
+    HasKeyboardFocus:	"False"
+
+  Identification
+    ClassName:	"WindowsForms10.BUTTON.app.0.141b42a_r6_ad1"
+    ControlType:	"ControlType.Pane"
+    Culture:	"(null)"
+    AutomationId:	"1114308"
+    LocalizedControlType:	"pane"
+    Name:	"Start Download"
+    ProcessId:	"7684 (GoingStickXP)"
+    RuntimeId:	"42 1114308"
+    IsPassword:	"False"
+    IsControlElement:	"True"
+    IsContentElement:	"True"
+
+  Visibility
+    BoundingRectangle:	"(310, 462, 378, 112)"
+    ClickablePoint:	"(null)"
+    IsOffscreen:	"False"
+
+ControlPatterns
+
+
+https://www.fleekitsolutions.com/use-winapp-driver-python/
